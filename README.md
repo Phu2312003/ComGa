@@ -1,2 +1,2 @@
 # ComGa
-Quan ly ban com ga
+Quản lý bán cơm gà là quá trình điều hành và tổ chức các hoạt động liên quan đến kinh doanh cơm gà trong một cửa hàng hoặc nhà hàng. Nhiệm vụ chính của quản lý bán cơm gà bao gồm quản lý nhân viên, quản lý hàng hóa, quản lý khách hàng và quản lý hoạt động kinh doanh.Trong vai trò quản lý, bạn sẽ phải xác định và triển khai các quy trình và chính sách để đảm bảo việc cung cấp cơm gà chất lượng cao và dịch vụ tốt nhất cho khách hàng.
